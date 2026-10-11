@@ -1,0 +1,4 @@
+# optional - only install what you use
+smartapi-python>=1.4   # Angel One
+pyotp>=2.9             # Angel One TOTP
+breeze-connect>=1.0    # ICICI Direct Breeze
